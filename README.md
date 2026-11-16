@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ThomsonTea&fontSize=60&fontAlignY=35&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:a371f7&height=200&section=header&text=ThomsonTea&fontSize=60&fontAlignY=35&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Thomson+%F0%9F%91%8B;Full-Stack+Software+Developer;Student+at+UTeM;AI+%2B+IoT+%2B+Industrial+Automation;Always+learning%2C+building%2C+exploring)](https://github.com/ThomsonTea)
 
@@ -41,14 +41,18 @@ Always learning, building, and exploring new technologies.
 
 ## 📊 GitHub stats
 
-<div align="center">
+<p align="center">
+  <img src="./profile/stats.svg" width="58%" alt="GitHub stats">
+  <img src="./profile/top-langs.svg" width="37.3%" alt="Most used languages">
+</p>
 
-![Stats](./profile/stats.svg)
-![Top languages](./profile/top-langs.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ThomsonTea&background=0d1117&border=30363d&stroke=30363d&ring=36BCF7&fire=a371f7&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=8b949e&border_radius=12&card_width=830" width="96%" alt="Contribution streak">
+</p>
 
-![Streak](https://streak-stats.demolab.com/?user=ThomsonTea&theme=tokyonight&hide_border=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomsonTea&bg_color=0d1117&color=36BCF7&line=a371f7&point=c9d1d9&area=true&area_color=36BCF7&title_color=36BCF7&hide_border=true&radius=12&height=300&custom_title=Contribution%20Activity" width="96%" alt="Contribution activity graph">
+</p>
 
 ## 🐍 Contribution snake
 
@@ -71,6 +75,6 @@ Always learning, building, and exploring new technologies.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ThomsonTea&color=blue)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:a371f7&height=100&section=footer)
 
 </div>
