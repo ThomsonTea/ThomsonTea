@@ -24,8 +24,8 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ThomsonTea&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomsonTea&layout=compact&theme=tokyonight&hide_border=true)
+![Stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
 </div>
 
